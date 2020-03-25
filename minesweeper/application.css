@@ -1,0 +1,23 @@
+.tile {
+    cursor: pointer;
+    display: inline;
+    border: 1px white solid;
+    border-style: inset;
+    border-style: outset;
+    background-color: gray;
+    /* background-image: url("https://deals.gi/media/catalog/product/cache/058c0efaab55c849325697b48f66daa1/8/6/86_7_.jpg"); */
+}
+
+.flagged {
+    background: "https://images-na.ssl-images-amazon.com/images/I/61Cvq7YZ4xL._SY355_.png";
+    background-color: yellow;
+}
+
+.bombed {
+    background: "https://cdn.shopify.com/s/files/1/1061/1924/products/Poop_Emoji_7b204f05-eec6-4496-91b1-351acc03d2c7_grande.png?v=1571606036";
+    background-color: red;
+}
+
+.revealed {
+    background-color: white;
+}
